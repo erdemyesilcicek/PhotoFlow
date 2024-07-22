@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="wrap_content"
+    android:padding="10dp"
+    android:layout_margin="3dp"
+    android:background="@drawable/custom_edittext">
+
+    <TextView
+        android:id="@+id/recyclerViewMailText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:text="kullanıcı maili"
+        android:drawableLeft="@drawable/baseline_person_24"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:drawablePadding="8dp"/>
+
+    <ImageView
+        android:id="@+id/recyclerViewImageView"
+        android:layout_margin="5dp"
+        android:layout_gravity="center"
+        android:layout_width="300dp"
+        android:layout_height="200dp"/>
+
+    <TextView
+        android:id="@+id/recyclerViewDescriptionText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:text="açıklama"
+        android:drawableLeft="@drawable/baseline_insert_comment_24"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:drawablePadding="8dp"/>
+
+</LinearLayout>

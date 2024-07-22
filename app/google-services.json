@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "241595050447",
+    "project_id": "photoflow-cfeb1",
+    "storage_bucket": "photoflow-cfeb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241595050447:android:fc92793c7f2c07279b0aba",
+        "android_client_info": {
+          "package_name": "com.erdemyesilcicek.photoflow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3VkMy3cW1u6kEqtaWi9cPvJn48KCtAeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
